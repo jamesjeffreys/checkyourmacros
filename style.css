@@ -1,0 +1,47 @@
+body{
+    font-family: 'Carter One', cursive;
+    
+    background-image: url('https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') ;
+    color: beige;
+    background-size: cover;
+}
+
+h1{
+    font-size: 50px;
+}
+
+section {
+    margin: auto;
+    width: 50%;;
+    text-align: center;
+    margin-top: 5%;
+}
+
+button{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+    width: 80px;
+    height: 20px;
+}
+
+button:hover{
+    background-color: #DDA0DD;
+    cursor: pointer;
+}
+
+input{
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+label{
+    font-size: 20px;
+}
+
+#productName{
+    font-size: 30px;
+}
